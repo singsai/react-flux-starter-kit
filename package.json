@@ -10,18 +10,26 @@
   "author": "Cory House",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^3.3.5",
+    "bootstrap": "https://registry.npmjs.org/bootstrap/-/bootstrap-3.3.5.tgz",
     "browserify": "^11.0.1",
     "flux": "^2.0.3",
-    "gulp": "^3.9.0",
-    "gulp-concat": "^2.6.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "https://registry.npmjs.org/gulp-concat/-/gulp-concat-2.6.0.tgz",
     "gulp-connect": "^2.2.0",
     "gulp-eslint": "^0.15.0",
-    "gulp-open": "^1.0.0",
-    "jquery": "^2.1.4",
+    "gulp-open": "https://registry.npmjs.org/gulp-open/-/gulp-open-1.0.0.tgz",
+    "jquery": "https://registry.npmjs.org/jquery/-/jquery-2.1.4.tgz",
     "react": "^0.13.3",
     "react-router": "^0.13.3",
     "reactify": "^1.1.1",
     "vinyl-source-stream": "^1.1.0"
+  },
+  "devDependencies": {
+    "browserify": "https://registry.npmjs.org/browserify/-/browserify-11.0.1.tgz",
+    "gulp-connect": "https://registry.npmjs.org/gulp-connect/-/gulp-connect-2.2.0.tgz",
+    "gulp-eslint": "https://registry.npmjs.org/gulp-eslint/-/gulp-eslint-0.15.0.tgz",
+    "gulp-install": "^0.6.0",
+    "reactify": "https://registry.npmjs.org/reactify/-/reactify-1.1.1.tgz",
+    "vinyl-source-stream": "https://registry.npmjs.org/vinyl-source-stream/-/vinyl-source-stream-1.1.0.tgz"
   }
 }
